@@ -1,0 +1,13 @@
+.box {
+    padding: 10px;
+    border: 1px solid #ddd;
+    width: 80%;
+    margin: 10px auto;
+}
+
+.btn {
+    padding: 10px;
+    font-size: 1em;
+    margin: 5px;
+    border-radius: 15px;
+}

@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Ranveer",
+        "age" : 49,
+        "Coder": 1
+    },
+
+    {
+        "name": "Mukesh",
+        "age" : 73,
+        "Coder": 0
+    },
+
+    {
+        "name": "Ravi",
+        "age" : 88,
+        "Coder": 0
+    },
+
+    {
+        "name": "Ram Jumar",
+        "age" : 48,
+        "Coder": 1
+    },
+
+    {
+        "name": "BabuLal",
+        "age" : 39,
+        "Coder": 1
+    }
+]

@@ -1,0 +1,12 @@
+.box {
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+}
+
+.box>div {
+    padding: 10px;
+    font-size: 1.2em;
+}

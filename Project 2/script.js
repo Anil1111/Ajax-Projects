@@ -12,9 +12,6 @@ txt.style.display = 'none'
 
 btn.addEventListener('click', (err) => {
     getData(url)
-
-
-    
 })
 
 
